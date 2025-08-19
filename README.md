@@ -2,7 +2,6 @@
 name: Mark Vincent Hugo
 located_in: Anaheim, California
 current_status: Senior Math-CS Student @ UC San Diego
-aspiring: [ "Software Engineer", "Data Engineer", "Machine Learning Enthusiast" ]
 
 education:
   - "B.S. Mathematics–Computer Science, UC San Diego (Class of 2026)"
