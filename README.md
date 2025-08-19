@@ -1,8 +1,19 @@
 # Hello, World! I'm Mark 👋
 
 🎓 **Senior Math-CS Student @ UC San Diego**  
-📊 **Aspiring Software Engineer / Machine Learning Enthusiast / **  
-☕ Barista turned problem solver | Passionate about **data, algorithms, and systems**
+📊 **Aspiring Data Scientist**  
+📐 Passionate about **mathematics, statistics, and predictive modeling**  
+☕ Barista turned problem solver | Driven by **clean, tidy** data
+
+---
+## 💻 I'm Currently Learning  
+
+**University of California, San Diego**  
+
+- CSE 101: Design and Analysis of Algorithms  
+- CSE 151A: Machine Learning: Learning Algorithms 
+- CSE 101: Recommender Systems and Web Mining
+- MATH 173A: Optimization Methods for Data Science I
 
 ---
 
