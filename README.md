@@ -3,7 +3,7 @@
 🎓 **Senior Math-CS Student @ UC San Diego**  
 📊 **Aspiring Data Scientist**  
 📐 Passionate about **mathematics, statistics, and predictive modeling**  
-☕ Barista turned problem solver | Driven by **clean, tidy** data
+☕ Barista turned problem solver | Driven by **clean, tidy data** 
 
 ---
 ## 💻 I'm Currently Learning  
