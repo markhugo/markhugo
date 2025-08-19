@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Mark Vincent Hugo
+# Hello, World! I'm Mark 👋
 
 🎓 **Senior Math-CS Student @ UC San Diego**  
-📊 Aspiring **Data Engineer / Data Architect**  
+📊 **Aspiring Software Engineer / Machine Learning Enthusiast / **  
 ☕ Barista turned problem solver | Passionate about **data, algorithms, and systems**
 
 ---
