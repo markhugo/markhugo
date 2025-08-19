@@ -1,71 +1,36 @@
-# Hello, World! I'm Mark 👋
+```yaml
+name: Mark Vincent Hugo
+located_in: Anaheim, California
+current_status: Senior Math-CS Student @ UC San Diego
+aspiring: [ "Software Engineer", "Data Engineer", "Machine Learning Enthusiast" ]
 
-🎓 **Senior Math-CS Student @ UC San Diego**  
-📊 **Aspiring Data Scientist**  
-📐 Passionate about **mathematics, statistics, and predictive modeling**  
-☕ Barista turned problem solver | Driven by **clean, tidy data** 
+education:
+  - "B.S. Mathematics–Computer Science, UC San Diego (Class of 2026)"
 
----
-## 💻 I'm Currently Learning  
+fields_of_interests:
+  - "Mathematics & Statistics"
+  - "Predictive Modeling"
+  - "Machine Learning"
+  - "Data Engineering & Architecture"
+  - "Systems Programming (C/C++)"
+  - "Actuarial Science & Risk Modeling"
 
-**University of California, San Diego**  
+technical_background:
+  - "Data Science Research Intern @ CSU Fullerton"
+  - "Web Developer @ Filipino Club, UCSD"
+  - "Barista Experience – Leadership & Training"
 
-- CSE 101: Design and Analysis of Algorithms  
-- CSE 151A: Machine Learning: Learning Algorithms 
-- CSE 101: Recommender Systems and Web Mining
-- MATH 173A: Optimization Methods for Data Science I
+currently_learning:
+  - "Design & Analysis of Algorithms (CSE 101)"
+  - "Machine Learning: Learning Algorithms (CSE 151A)"
+  - "Recommender Systems and Web Mining (CSE 158R)"
+  - "Optimization Methods in Data Science I (MATH 173A)"
 
----
+goals_2025:
+  - "Develop scalable data pipelines and ML-driven systems"
+  - "Contribute to open-source projects in data & ML"
+  - "Gain experience as a Data Engineer / Software Engineer intern"
 
-## 🔧 Technical Interests
-- **Data Engineering & Architecture** – pipelines, ETL, cloud data platforms  
-- **Machine Learning & Predictive Modeling** – probability-driven systems, model deployment  
-- **Systems & Algorithms** – C/C++, data structures, and performance optimization  
-- **Actuarial & Financial Applications** – probability, risk modeling, and analytics  
+hobbies: [ "Cafe Hopping", "Cooking", "Gyming" ]
 
----
-
-## 🚀 Current Projects
-- 📈 **Housing Price Prediction** – Kaggle-based ML pipeline with feature engineering & regression models  
-- 🃏 **Poker Probability Calculator** – C++ program for evaluating poker hands with probabilistic modeling  
-- 🚌 **UCSD Grocery Shuttle App** – website displaying nearest grocery stores at shuttle stops  
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python, C, C++, JavaScript, SQL  
-- **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow  
-- **Systems & Tools:** Git, Linux, Docker, AWS (learning)  
-- **Web Dev:** HTML, CSS/SASS, React, Flask  
-
----
-
-## 📚 Coursework @ UCSD
-- **Math:** Probability, Statistics, Actuarial Mathematics (193A/B), Graph Theory, Algorithms  
-- **CS:** Data Structures (CSE 100), Theory of Computation (CSE 105), Algorithms (CSE 101), Machine Learning (CSE 151A/B), Databases (CSE 132A/135)  
-- **Other:** Finance (MGT 12), Micro/Macro Economics  
-
----
-
-## 🌟 Experience
-- 🔬 **Data Science Research Intern** – CSU Fullerton (PCUBED Program)  
-  - Conducted predictive modeling for medical insurance costs  
-  - Built regression models & optimized with hyperparameter tuning  
-
-- 🌐 **Web Developer** – Filipino Club @ UCSD  
-  - Refactored website codebase, migrated to SASS  
-  - Improved maintainability & UI consistency  
-
-- ☕ **Barista** – The Mugs & Intentional Coffee  
-  - Leadership in training, quality control, and customer service  
-
----
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📂 [GitHub](https://github.com/)  
-- ✉️ Email: markvhugo@example.com  
-
----
-
-⚡ *Detail-oriented student passionate about building systems where data, math, and engineering come together.*
+```
